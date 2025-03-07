@@ -21,12 +21,16 @@
 
 ## Overview
 
-This research compendium… **{{ DESCRIBE YOUR PROJECT }}**
+This research compendium is for my dissertation. It includes code, and whenever possible, data that is not of a proprietary nature, for research reproducibility purposes. This is a work in progress. 
 
 ## Features
 
-The main purpose of this compendium is to… **{{ DESCRIBE THE MAIN
-FEATURES }}**
+The main purpose of this compendium is to:
+1. make my dissertation code available for use, under a GPL-3 license (TLDR: if you use it, you need to provide attribution and make any code that you use it with publicly available).
+2. provide a means of working between multiple machines
+3. organize and document my process for my committee members to readily access.
+4. to get in the habit of doing open science-oriented documentation for my projects moving forward and use this as an opportunity to develop a workflow habit.
+5. as an additional backup in the event of catastrophic failure, because I've seen too many horror stories about people who lose their dissertation. 
 
 ## Content
 
